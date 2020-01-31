@@ -1,2 +1,0 @@
-# smartBanners
-afSmartbanners
